@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GrayNote</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type Note Here</string>
+    <string name="type_note_heree">type note here</string>
+    <string name="misscellaneous">misscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure">Are you Sure</string>
+    <string name="cancel">Cancel</string>
+</resources>

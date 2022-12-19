@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376296654288",
+    "project_id": "graynote-eef7e",
+    "storage_bucket": "graynote-eef7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376296654288:android:3dd61b2df52f96f8b265d5",
+        "android_client_info": {
+          "package_name": "com.javal.graynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376296654288-7ovelc4na3rda89vg27af45tdg2k4o1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tcDngU_WsIyaD2cZj5EVhey5MfKXvKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376296654288-7ovelc4na3rda89vg27af45tdg2k4o1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
